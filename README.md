@@ -53,6 +53,7 @@ It combines **AI, voice recognition**, and a clean user experience to make expen
 
 ### Home Page
 <img width="1818" height="904" alt="Screenshot 2025-10-18 193436" src="https://github.com/user-attachments/assets/6f8f71f1-4b8c-429a-a7c4-dbf8dec8e6a1" />
+
 ### Dashboard
 <img width="1152" height="901" alt="Screenshot 2025-10-18 193610" src="https://github.com/user-attachments/assets/6078ad3b-eafa-4d8f-88e7-9c58b483f22f" />
 
