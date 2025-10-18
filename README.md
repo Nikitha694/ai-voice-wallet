@@ -1,5 +1,4 @@
 # AI Voice Wallet 🎙️💰
-# 💰 AI Voice Wallet
 
 A smart **AI-powered voice-controlled expense tracker** that helps you manage your finances hands-free using voice commands and intelligent insights.
 
@@ -11,7 +10,6 @@ A smart **AI-powered voice-controlled expense tracker** that helps you manage yo
 
 **AI Voice Wallet** transforms the way you track expenses.  
 Instead of typing, simply **speak your transactions**, and the app automatically identifies the amount, category, and date — keeping your wallet organized effortlessly.  
-
 It combines **AI, voice recognition**, and a clean user experience to make expense management faster and smarter.
 
 ---
@@ -21,7 +19,6 @@ It combines **AI, voice recognition**, and a clean user experience to make expen
 - 🎙️ **Voice Input:** Add expenses just by speaking (e.g., “Add 300 rupees for food”)
 - 🤖 **AI-Powered Understanding:** Detects amount, purpose, and category automatically
 - 📊 **Expense Analytics:** Visualize your spending with clean graphs and summaries
-- 💡 **Smart Insights:** Get suggestions based on your spending patterns
 - 🕹️ **Interactive UI:** Simple, intuitive, and user-friendly design
 - 📱 **Responsive Design:** Works perfectly on mobile and desktop
 - 🌙 **Modern Interface:** Built with React + Tailwind CSS for a sleek experience
@@ -54,11 +51,11 @@ It combines **AI, voice recognition**, and a clean user experience to make expen
 
 ## 📸 Screenshots
 
-| Home Page | Expense Dashboard | Voice Input |
-|------------|------------------|--------------|
-| ![Home Page](https://github.com/Nikitha694/ai-voice-wallet/blob/main/public/home.png?raw=true) | ![Dashboard](https://github.com/Nikitha694/ai-voice-wallet/blob/main/public/expense.png?raw=true) | ![Voice Input](https://github.com/Nikitha694/ai-voice-wallet/blob/main/public/voice.png?raw=true) |
 
-*(Replace the image links with your actual image paths if different.)*
+![Home Page](<img width="1818" height="904" alt="image" src="https://github.com/user-attachments/assets/ee94e836-6088-4248-b03d-27ff06786e5a" />
+) ![Dashboard](<img width="1152" height="901" alt="image" src="https://github.com/user-attachments/assets/15efbf8f-5b60-4c21-92fa-c900baadec7c" />
+)
+
 
 ---
 
