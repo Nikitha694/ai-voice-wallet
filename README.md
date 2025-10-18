@@ -1,32 +1,77 @@
 # AI Voice Wallet 🎙️💰
+# 💰 AI Voice Wallet
 
-A smart voice-controlled expense tracker that lets you manage your finances hands-free using AI and voice commands.
+A smart **AI-powered voice-controlled expense tracker** that helps you manage your finances hands-free using voice commands and intelligent insights.
 
-## Demo
+🔗 **Live Demo:** [https://ai-voice-wallet.vercel.app](https://ai-voice-wallet.vercel.app)
 
-![Home Page](images/home.png)
-![Diabetic Result Page](images/result.png)
-![Non-Diabetic Result Page](images/no_result.png)
+---
 
-*(Replace the above images with your actual screenshots stored in an `images` folder in your repo)*
+## 🧠 Overview
 
-## Features
+**AI Voice Wallet** transforms the way you track expenses.  
+Instead of typing, simply **speak your transactions**, and the app automatically identifies the amount, category, and date — keeping your wallet organized effortlessly.  
 
-- Add expenses using voice commands
-- Categorize expenses automatically
-- View expense history and summaries
-- AI-powered suggestions for budgeting
-- Responsive and modern UI built with React + Tailwind CSS
+It combines **AI, voice recognition**, and a clean user experience to make expense management faster and smarter.
 
-## Tech Stack
+---
 
-- **Frontend:** React, Vite, Tailwind CSS, shadcn-ui
-- **Backend:** Node.js, Express (or your backend)
-- **Database:** Firebase / MongoDB (whichever you are using)
-- **AI / Voice:** Web Speech API / TensorFlow.js (or your used voice library)
+## ✨ Features
 
-## Installation & Setup
+- 🎙️ **Voice Input:** Add expenses just by speaking (e.g., “Add 300 rupees for food”)
+- 🤖 **AI-Powered Understanding:** Detects amount, purpose, and category automatically
+- 📊 **Expense Analytics:** Visualize your spending with clean graphs and summaries
+- 💡 **Smart Insights:** Get suggestions based on your spending patterns
+- 🕹️ **Interactive UI:** Simple, intuitive, and user-friendly design
+- 📱 **Responsive Design:** Works perfectly on mobile and desktop
+- 🌙 **Modern Interface:** Built with React + Tailwind CSS for a sleek experience
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Nikitha694/ai-voice-wallet.git
+---
+
+## 🧰 Tech Stack
+
+| Category | Technology |
+|-----------|-------------|
+| **Frontend** | React (Vite), Tailwind CSS |
+| **Backend** | Node.js, Express |
+| **Database** | MongoDB / Supabase |
+| **AI / Voice** | Web Speech API, TensorFlow.js |
+| **Deployment** | Vercel |
+
+---
+
+## 🧩 How It Works
+
+1. When you open the app, allow microphone access.  
+2. Speak naturally — for example:  
+   > “Add 400 rupees for travel”  
+3. The app automatically converts your voice into text.  
+4. AI extracts the **amount (400)** and **category (travel)**.  
+5. The expense is saved and shown in your dashboard instantly.  
+6. View expense charts and summaries to analyze your spending.  
+
+---
+
+## 📸 Screenshots
+
+| Home Page | Expense Dashboard | Voice Input |
+|------------|------------------|--------------|
+| ![Home Page](https://github.com/Nikitha694/ai-voice-wallet/blob/main/public/home.png?raw=true) | ![Dashboard](https://github.com/Nikitha694/ai-voice-wallet/blob/main/public/expense.png?raw=true) | ![Voice Input](https://github.com/Nikitha694/ai-voice-wallet/blob/main/public/voice.png?raw=true) |
+
+*(Replace the image links with your actual image paths if different.)*
+
+---
+
+## 🚀 Future Enhancements
+
+- 🌍 Multi-language voice recognition  
+- 💬 Voice-based AI feedback and budget recommendations  
+- 📈 Monthly budget planner  
+- 🔔 Overspending alerts  
+- 🌓 Dark mode toggle  
+- 📱 Mobile app version using React Native  
+
+---
+
+> 💬 *Developed with passion by [Grandhi Neha Nikitha](https://github.com/Nikitha694)* 💜
+
