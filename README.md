@@ -52,8 +52,10 @@ It combines **AI, voice recognition**, and a clean user experience to make expen
 ## 📸 Screenshots
 
 
-![Home Page](<img width="1818" height="904" alt="image" src="https://github.com/user-attachments/assets/ee94e836-6088-4248-b03d-27ff06786e5a" />)
-![Dashboard](<img width="1152" height="901" alt="image" src="https://github.com/user-attachments/assets/15efbf8f-5b60-4c21-92fa-c900baadec7c" />)
+![Home Page](<img width="1818" height="904" alt="Screenshot 2025-10-18 193436" src="https://github.com/user-attachments/assets/f8f74af7-afef-40b4-909b-cb3ee2b6f000" />
+)
+![Dashboard](<img width="1152" height="901" alt="Screenshot 2025-10-18 193610" src="https://github.com/user-attachments/assets/b7d03318-111c-4a2b-b770-d67c1f17a41e" />
+)
 
 
 ---
